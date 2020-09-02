@@ -1,0 +1,3 @@
+# doc
+This application give an information about for Memory, disk, windows version and etc....
+Вывод информации о компьютере
